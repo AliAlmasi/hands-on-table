@@ -1,0 +1,93 @@
+[
+	{
+		"product$id": 12,
+		"product$name": "شیشه ",
+		"product_type_id": [
+			44,
+			45,
+			46,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43
+		],
+		"sub_product_id": null,
+		"product$active": true,
+		"product$salepurchase": 1,
+		"product$barcode": "nvh123",
+		"product_category$name": null,
+		"product_ttype$name": null
+	},
+	{
+		"product$id": 13,
+		"product$name": "طلق ",
+		"product_type_id": [
+			47,
+			48,
+			52,
+			53,
+			49,
+			50,
+			51
+		],
+		"sub_product_id": null,
+		"product$active": true,
+		"product$salepurchase": 1,
+		"product$barcode": "nvh123",
+		"product_category$name": null,
+		"product_ttype$name": null
+	},
+	{
+		"product$id": 14,
+		"product$name": "اسپیسر",
+		"product_type_id": [
+			56,
+			57,
+			58,
+			59,
+			60,
+			54,
+			55
+		],
+		"sub_product_id": null,
+		"product$active": true,
+		"product$salepurchase": 1,
+		"product$barcode": "nvh123",
+		"product_category$name": null,
+		"product_ttype$name": null
+	},
+	{
+		"product$id": 15,
+		"product$name": "شیشه لمینت",
+		"product_type_id": [],
+		"sub_product_id": [
+			12,
+			13,
+			12
+		],
+		"product$active": true,
+		"product$salepurchase": 1,
+		"product$barcode": "nvh123",
+		"product_category$name": null,
+		"product_ttype$name": null
+	},
+	{
+		"product$id": 16,
+		"product$name": "لمینت دوجداره تک لایه",
+		"product_type_id": [],
+		"sub_product_id": [
+			15,
+			14,
+			12
+		],
+		"product$active": true,
+		"product$salepurchase": 1,
+		"product$barcode": "nvh123",
+		"product_category$name": null,
+		"product_ttype$name": null
+	}
+]
